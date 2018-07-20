@@ -1,0 +1,712 @@
+[2018-07-15 11:22:33.343] [INFO] routers - Express server listening on port 8200, worker id is 3
+[2018-07-15 11:22:33.345] [INFO] routers - Express server listening on port 8200, worker id is 4
+[2018-07-15 11:22:33.849] [INFO] routers - Express server listening on port 8200, worker id is 10
+[2018-07-15 11:22:33.869] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:33.932] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:34.310] [INFO] routers - Express server listening on port 8200, worker id is 18
+[2018-07-15 11:22:34.314] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:34.315] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:34.347] [INFO] routers - Express server listening on port 8200, worker id is 22
+[2018-07-15 11:22:34.744] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:34.799] [INFO] routers - Express server listening on port 8200, worker id is 30
+[2018-07-15 11:22:35.229] [INFO] routers - Express server listening on port 8200, worker id is 35
+[2018-07-15 11:22:35.249] [INFO] routers - Express server listening on port 8200, worker id is 37
+[2018-07-15 11:22:35.380] [INFO] routers - Express server listening on port 8200, worker id is 40
+[2018-07-15 11:22:35.632] [INFO] routers - Express server listening on port 8200, worker id is 42
+[2018-07-15 11:22:35.890] [INFO] routers - Express server listening on port 8200, worker id is 48
+[2018-07-15 11:22:36.100] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:36.201] [INFO] routers - Express server listening on port 8200, worker id is 54
+[2018-07-15 11:22:36.369] [INFO] routers - Express server listening on port 8200, worker id is 56
+[2018-07-15 11:22:36.848] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:37.081] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 11:22:37.344] [INFO] routers - Express server listening on port 8200, worker id is 72
+[2018-07-15 11:22:37.481] [INFO] routers - Express server listening on port 8200, worker id is 74
+[2018-07-15 11:22:37.531] [INFO] routers - Express server listening on port 8200, worker id is 77
+[2018-07-15 11:22:37.550] [INFO] routers - Express server listening on port 8200, worker id is 75
+[2018-07-15 11:22:37.849] [INFO] routers - Express server listening on port 8200, worker id is 81
+[2018-07-15 11:22:38.001] [INFO] routers - Express server listening on port 8200, worker id is 84
+[2018-07-15 11:22:38.923] [INFO] routers - Express server listening on port 8200, worker id is 98
+[2018-07-15 11:22:39.216] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 12:20:45.198] [INFO] routers - Express server listening on port 8200, worker id is 2
+[2018-07-15 12:20:45.200] [INFO] routers - Express server listening on port 8200, worker id is 3
+[2018-07-15 12:20:45.201] [INFO] routers - Express server listening on port 8200, worker id is 7
+[2018-07-15 12:20:45.201] [INFO] routers - Express server listening on port 8200, worker id is 1
+[2018-07-15 12:20:45.202] [INFO] routers - Express server listening on port 8200, worker id is 5
+[2018-07-15 12:20:45.201] [INFO] routers - Express server listening on port 8200, worker id is 4
+[2018-07-15 12:20:45.213] [INFO] routers - Express server listening on port 8200, worker id is 8
+[2018-07-15 12:20:45.220] [INFO] routers - Express server listening on port 8200, worker id is 6
+[2018-07-15 12:34:14.555] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/app/access","headers":{"Connection":"close"},"form":{"appid":"1007122359636721664","appsecret":"69a08656-5eea-45f8-a029-dfd95230fabf"}}
+[2018-07-15 12:34:19.844] [INFO] console - request accessToken elapsed 5289 mills
+[2018-07-15 12:34:19.846] [INFO] console - fns=undefined
+[2018-07-15 12:34:19.849] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"608a2053-a894-4fcb-8cb8-0b06daf48092","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"AAAA\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"aa1\",\"aa2\"]}","bizId":"571d2390-87e8-11e8-bbb5-f7bee2da1a6c","amount":0.01}}
+[2018-07-15 12:34:20.274] [INFO] console - text record elapsed 425 mills
+[2018-07-15 12:34:20.276] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 5723ms
+[2018-07-15 12:42:46.299] [INFO] console - fns=undefined
+[2018-07-15 12:42:46.302] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"608a2053-a894-4fcb-8cb8-0b06daf48092","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"BBBB\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"bb1\",\"bb2\"]}","bizId":"84fb94d0-87e9-11e8-a4d6-3557296ec258","amount":0.01}}
+[2018-07-15 12:42:46.783] [INFO] console - text record elapsed 481 mills
+[2018-07-15 12:42:46.788] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 492ms
+[2018-07-15 16:50:59.993] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.993] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.992] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.992] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.993] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.992] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.992] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:50:59.992] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:51:00.427] [INFO] routers - Express server listening on port 8200, worker id is 9
+[2018-07-15 16:51:00.452] [INFO] routers - Express server listening on port 8200, worker id is 12
+[2018-07-15 16:51:00.455] [INFO] routers - Express server listening on port 8200, worker id is 15
+[2018-07-15 16:51:00.473] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:51:00.888] [INFO] routers - Express server listening on port 8200, worker id is 17
+[2018-07-15 16:51:00.896] [INFO] routers - Express server listening on port 8200, worker id is 19
+[2018-07-15 16:51:00.900] [INFO] routers - Express server listening on port 8200, worker id is 18
+[2018-07-15 16:51:00.917] [INFO] routers - Express server listening on port 8200, worker id is 21
+[2018-07-15 16:51:00.921] [INFO] routers - Express server listening on port 8200, worker id is 20
+[2018-07-15 16:51:00.949] [INFO] routers - Express server listening on port 8200, worker id is 24
+[2018-07-15 16:51:00.954] [INFO] routers - Express server listening on port 8200, worker id is 23
+[2018-07-15 16:51:00.965] [INFO] routers - Express server listening on port 8200, worker id is 22
+[2018-07-15 16:51:29.122] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/app/access","headers":{"Connection":"close"},"form":{"appid":"1007122359636721664","appsecret":"69a08656-5eea-45f8-a029-dfd95230fabf"}}
+[2018-07-15 16:51:29.334] [INFO] console - request accessToken elapsed 212 mills
+[2018-07-15 16:51:29.336] [INFO] console - fns=undefined
+[2018-07-15 16:51:29.338] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"0bfeee88-1beb-41ec-8a57-9756b969a93f","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"BBBB\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"bb1\",\"bb2\"]}","bizId":"43ce51a0-880c-11e8-8d56-e737eecd6ee2","amount":0.01}}
+[2018-07-15 16:51:29.793] [INFO] console - text record elapsed 455 mills
+[2018-07-15 16:51:29.799] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 678ms
+[2018-07-15 16:51:42.574] [INFO] console - fns=undefined
+[2018-07-15 16:51:42.576] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"0bfeee88-1beb-41ec-8a57-9756b969a93f","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"AAA\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"aa1\",\"aa2\"]}","bizId":"4bb24700-880c-11e8-9dff-31d8a3e3fccd","amount":0.01}}
+[2018-07-15 16:51:43.036] [INFO] console - text record elapsed 460 mills
+[2018-07-15 16:51:43.040] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 469ms
+[2018-07-15 16:52:00.063] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.065] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.065] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.063] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.065] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.065] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.065] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.065] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.519] [INFO] routers - Express server listening on port 8200, worker id is 27
+[2018-07-15 16:52:00.523] [INFO] routers - Express server listening on port 8200, worker id is 26
+[2018-07-15 16:52:00.524] [INFO] routers - Express server listening on port 8200, worker id is 32
+[2018-07-15 16:52:00.527] [INFO] routers - Express server listening on port 8200, worker id is 31
+[2018-07-15 16:52:00.528] [INFO] routers - Express server listening on port 8200, worker id is 25
+[2018-07-15 16:52:00.537] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:00.984] [INFO] routers - Express server listening on port 8200, worker id is 35
+[2018-07-15 16:52:00.994] [INFO] routers - Express server listening on port 8200, worker id is 40
+[2018-07-15 16:52:01.007] [INFO] routers - Express server listening on port 8200, worker id is 39
+[2018-07-15 16:52:01.017] [INFO] routers - Express server listening on port 8200, worker id is 37
+[2018-07-15 16:52:01.439] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:52:01.485] [INFO] routers - Express server listening on port 8200, worker id is 46
+[2018-07-15 16:52:01.901] [INFO] routers - Express server listening on port 8200, worker id is 51
+[2018-07-15 16:52:01.902] [INFO] routers - Express server listening on port 8200, worker id is 53
+[2018-07-15 16:52:01.965] [INFO] routers - Express server listening on port 8200, worker id is 56
+[2018-07-15 16:52:01.974] [INFO] routers - Express server listening on port 8200, worker id is 54
+[2018-07-15 16:52:02.236] [INFO] routers - Express server listening on port 8200, worker id is 59
+[2018-07-15 16:52:02.266] [INFO] routers - Express server listening on port 8200, worker id is 57
+[2018-07-15 16:52:02.272] [INFO] routers - Express server listening on port 8200, worker id is 58
+[2018-07-15 16:52:02.303] [INFO] routers - Express server listening on port 8200, worker id is 61
+[2018-07-15 16:52:02.307] [INFO] routers - Express server listening on port 8200, worker id is 60
+[2018-07-15 16:52:02.315] [INFO] routers - Express server listening on port 8200, worker id is 62
+[2018-07-15 16:52:08.390] [INFO] routers - Express server listening on port 8200, worker id is 1
+[2018-07-15 16:52:08.392] [INFO] routers - Express server listening on port 8200, worker id is 2
+[2018-07-15 16:52:08.396] [INFO] routers - Express server listening on port 8200, worker id is 5
+[2018-07-15 16:52:08.397] [INFO] routers - Express server listening on port 8200, worker id is 4
+[2018-07-15 16:52:08.401] [INFO] routers - Express server listening on port 8200, worker id is 7
+[2018-07-15 16:52:08.407] [INFO] routers - Express server listening on port 8200, worker id is 6
+[2018-07-15 16:52:08.416] [INFO] routers - Express server listening on port 8200, worker id is 8
+[2018-07-15 16:52:08.428] [INFO] routers - Express server listening on port 8200, worker id is 3
+[2018-07-15 16:52:12.557] [INFO] console - fns=undefined
+[2018-07-15 16:52:12.558] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"0bfeee88-1beb-41ec-8a57-9756b969a93f","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"AAA\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"aa1\",\"aa2\"]}","bizId":"5d912ae0-880c-11e8-a86f-5b51b7156add","amount":0.01}}
+[2018-07-15 16:52:13.021] [INFO] console - text record elapsed 463 mills
+[2018-07-15 16:52:13.026] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 472ms
+[2018-07-15 16:52:24.123] [INFO] console - fns=undefined
+[2018-07-15 16:52:24.125] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"0bfeee88-1beb-41ec-8a57-9756b969a93f","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"BBB\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"bb1\",\"bb2\"]}","bizId":"647626d0-880c-11e8-b673-b9ee5dcb1cd0","amount":0.01}}
+[2018-07-15 16:52:24.573] [INFO] console - text record elapsed 448 mills
+[2018-07-15 16:52:24.576] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 455ms
+[2018-07-15 16:54:37.947] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.948] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.947] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.948] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.947] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.947] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.948] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:37.948] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:38.390] [INFO] routers - Express server listening on port 8200, worker id is 10
+[2018-07-15 16:54:38.400] [INFO] routers - Express server listening on port 8200, worker id is 9
+[2018-07-15 16:54:38.405] [INFO] routers - Express server listening on port 8200, worker id is 13
+[2018-07-15 16:54:38.415] [INFO] routers - Express server listening on port 8200, worker id is 12
+[2018-07-15 16:54:38.426] [INFO] routers - Express server listening on port 8200, worker id is 16
+[2018-07-15 16:54:38.847] [INFO] routers - Express server listening on port 8200, worker id is 18
+[2018-07-15 16:54:38.850] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:38.851] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:39.296] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:39.314] [INFO] routers - Express server listening on port 8200, worker id is 28
+[2018-07-15 16:54:39.369] [INFO] routers - Express server listening on port 8200, worker id is 30
+[2018-07-15 16:54:39.777] [INFO] routers - Express server listening on port 8200, worker id is 36
+[2018-07-15 16:54:39.782] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 16:54:39.788] [INFO] routers - Express server listening on port 8200, worker id is 37
+[2018-07-15 16:54:40.275] [INFO] routers - Express server listening on port 8200, worker id is 46
+[2018-07-15 16:54:40.296] [INFO] routers - Express server listening on port 8200, worker id is 45
+[2018-07-15 16:54:40.428] [INFO] routers - Express server listening on port 8200, worker id is 48
+[2018-07-15 16:54:40.603] [INFO] routers - Express server listening on port 8200, worker id is 49
+[2018-07-15 16:54:40.613] [INFO] routers - Express server listening on port 8200, worker id is 50
+[2018-07-15 16:54:40.619] [INFO] routers - Express server listening on port 8200, worker id is 51
+[2018-07-15 16:54:40.659] [INFO] routers - Express server listening on port 8200, worker id is 53
+[2018-07-15 16:54:40.661] [INFO] routers - Express server listening on port 8200, worker id is 54
+[2018-07-15 16:54:40.668] [INFO] routers - Express server listening on port 8200, worker id is 52
+[2018-07-15 16:54:50.264] [INFO] routers - Express server listening on port 8200, worker id is 3
+[2018-07-15 16:54:50.265] [INFO] routers - Express server listening on port 8200, worker id is 4
+[2018-07-15 16:54:50.271] [INFO] routers - Express server listening on port 8200, worker id is 2
+[2018-07-15 16:54:50.273] [INFO] routers - Express server listening on port 8200, worker id is 1
+[2018-07-15 16:54:50.276] [INFO] routers - Express server listening on port 8200, worker id is 6
+[2018-07-15 16:54:50.282] [INFO] routers - Express server listening on port 8200, worker id is 7
+[2018-07-15 16:54:50.289] [INFO] routers - Express server listening on port 8200, worker id is 5
+[2018-07-15 16:54:50.299] [INFO] routers - Express server listening on port 8200, worker id is 8
+[2018-07-15 16:56:23.286] [INFO] routers - Express server listening on port 8200, worker id is 5
+[2018-07-15 16:56:23.286] [INFO] routers - Express server listening on port 8200, worker id is 4
+[2018-07-15 16:56:23.288] [INFO] routers - Express server listening on port 8200, worker id is 3
+[2018-07-15 16:56:23.288] [INFO] routers - Express server listening on port 8200, worker id is 1
+[2018-07-15 16:56:23.292] [INFO] routers - Express server listening on port 8200, worker id is 2
+[2018-07-15 16:56:23.297] [INFO] routers - Express server listening on port 8200, worker id is 6
+[2018-07-15 16:56:23.296] [INFO] routers - Express server listening on port 8200, worker id is 8
+[2018-07-15 16:56:23.327] [INFO] routers - Express server listening on port 8200, worker id is 7
+[2018-07-15 17:01:51.182] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.182] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.182] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.182] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.182] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.182] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.183] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.183] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.625] [INFO] routers - Express server listening on port 8200, worker id is 13
+[2018-07-15 17:01:51.631] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.648] [INFO] routers - Express server listening on port 8200, worker id is 16
+[2018-07-15 17:01:51.649] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:51.699] [INFO] routers - Express server listening on port 8200, worker id is 15
+[2018-07-15 17:01:52.071] [INFO] routers - Express server listening on port 8200, worker id is 19
+[2018-07-15 17:01:52.104] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:52.539] [INFO] routers - Express server listening on port 8200, worker id is 25
+[2018-07-15 17:01:52.572] [INFO] routers - Express server listening on port 8200, worker id is 30
+[2018-07-15 17:01:52.583] [INFO] routers - Express server listening on port 8200, worker id is 31
+[2018-07-15 17:01:53.072] [INFO] routers - Express server listening on port 8200, worker id is 39
+[2018-07-15 17:01:53.443] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:53.465] [INFO] routers - Express server listening on port 8200, worker id is 43
+[2018-07-15 17:01:53.533] [INFO] routers - Express server listening on port 8200, worker id is 46
+[2018-07-15 17:01:53.537] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:53.931] [INFO] routers - Express server listening on port 8200, worker id is 51
+[2018-07-15 17:01:53.951] [INFO] routers - Express server listening on port 8200, worker id is 49
+[2018-07-15 17:01:53.998] [INFO] routers - Express server listening on port 8200, worker id is 55
+[2018-07-15 17:01:54.003] [INFO] routers - Express server listening on port 8200, worker id is 53
+[2018-07-15 17:01:54.904] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:54.930] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:55.445] [INFO] routers - Express server listening on port 8200, worker id is 79
+[2018-07-15 17:01:55.884] [INFO] routers - Express server listening on port 8200, worker id is 86
+[2018-07-15 17:01:56.227] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:56.685] [INFO] routers - Express server listening on port 8200, worker id is 98
+[2018-07-15 17:01:57.001] [INFO] routers - Express server listening on port 8200, worker id is 104
+[2018-07-15 17:01:57.123] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:57.805] [INFO] routers - Express server listening on port 8200, worker id is 118
+[2018-07-15 17:01:58.162] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:01:58.288] [INFO] routers - Express server listening on port 8200, worker id is 127
+[2018-07-15 17:01:58.719] [INFO] routers - Express server listening on port 8200, worker id is 134
+[2018-07-15 17:01:59.049] [INFO] routers - Express server listening on port 8200, worker id is 138
+[2018-07-15 17:01:59.516] [INFO] routers - Express server listening on port 8200, worker id is 147
+[2018-07-15 17:01:59.522] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:02:00.125] [INFO] routers - Express server listening on port 8200, worker id is 158
+[2018-07-15 17:02:00.708] [INFO] console - { Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+    at Object._errnoException (util.js:1003:13)
+    at _exceptionWithHostPort (util.js:1024:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1181:14)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379 }
+[2018-07-15 17:02:00.975] [INFO] routers - Express server listening on port 8200, worker id is 171
+[2018-07-15 17:02:01.061] [INFO] routers - Express server listening on port 8200, worker id is 173
+[2018-07-15 17:02:01.168] [INFO] routers - Express server listening on port 8200, worker id is 175
+[2018-07-15 17:02:01.207] [INFO] routers - Express server listening on port 8200, worker id is 176
+[2018-07-15 17:02:01.279] [INFO] routers - Express server listening on port 8200, worker id is 177
+[2018-07-15 17:02:01.370] [INFO] routers - Express server listening on port 8200, worker id is 179
+[2018-07-15 17:02:01.388] [INFO] routers - Express server listening on port 8200, worker id is 178
+[2018-07-15 17:02:01.445] [INFO] routers - Express server listening on port 8200, worker id is 181
+[2018-07-15 17:02:01.449] [INFO] routers - Express server listening on port 8200, worker id is 180
+[2018-07-15 17:02:01.484] [INFO] routers - Express server listening on port 8200, worker id is 182
+[2018-07-15 17:03:12.513] [INFO] console - fns=undefined
+[2018-07-15 17:03:12.514] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"0bfeee88-1beb-41ec-8a57-9756b969a93f","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"BBBBB\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"bb1\",\"bb2\"]}","bizId":"e6ee7620-880d-11e8-ada9-098ddd649288","amount":0.01}}
+[2018-07-15 17:03:13.074] [INFO] console - text record elapsed 560 mills
+[2018-07-15 17:03:13.078] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 568ms
+[2018-07-15 17:03:29.831] [INFO] console - fns=undefined
+[2018-07-15 17:03:29.833] [INFO] console - {"method":"POST","url":"https://dapi.sparkchain.cn/v1/text/record","headers":{"Connection":"close"},"form":{"accessToken":"0bfeee88-1beb-41ec-8a57-9756b969a93f","srcAccount":"jaUnU6gXAczMW5wUbLe3jhkm8YkE15g7fR","payPassword":"654321","chainCode":"jingtumTest","tokenCode":"SWT","destAccount":"jGiWefivwiapD5mAKAVy14U4W8hCFfBDB9","memo":"{\"tracker\":\"AAAAA\",\"event\":\"PRODUCT\",\"trackObjs\":[\"abc\",\"aa2\",\"aa3\"]}","bizId":"f140fa80-880d-11e8-8479-775197dc493e","amount":0.01}}
+[2018-07-15 17:03:30.298] [INFO] console - text record elapsed 465 mills
+[2018-07-15 17:03:30.304] [INFO] console - timemonitor ::ffff:127.0.0.1 POST /track/add elapsed 474ms
